@@ -1,0 +1,11 @@
+.DS_Store
+
+# IDEs directories
+.idea
+.vscode
+__debug*
+
+# workdir
+.runtime
+
+.env
